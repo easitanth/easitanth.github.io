@@ -1,0 +1,7 @@
+site_name: easitanth
+site_url: https://easitanth.github.io
+theme:
+  name: material
+plugins:
+  - search
+  - blog
